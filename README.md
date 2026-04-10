@@ -27,8 +27,8 @@
 ## Estatísticas do GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LGNlts&show_icons=true&theme=dracula&hide_border=true&bg_color=1a0f2e&title_color=7B2CBF&text_color=ffffff&icon_color=7B2CBF" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LGNlts&layout=compact&theme=dracula&hide_border=true&bg_color=1a0f2e&title_color=7B2CBF&text_color=ffffff" width="48%" />
+  <img src="https://github-readme-stats.shion.dev/api?username=LGNlts&show_icons=true&hide_border=true&bg_color=1a0f2e&title_color=7B2CBF&text_color=ffffff&icon_color=7B2CBF" width="48%" />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=LGNlts&layout=compact&hide_border=true&bg_color=1a0f2e&title_color=7B2CBF&text_color=ffffff" width="48%" />
 </div>
 
 <div align="center">
