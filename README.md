@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/V2YV62w3/giphy.gif" alt="Code Geass GIF" width="300"/>
+  <img src="[https://media.giphy.com/media/V2YV62w3/giphy.gif](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDdyaGl4bWI5NHo5cjhtM282YjB4dHh4NGU3dzJobnlpN3JoaTF0eiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/e9U5tYwBssdLG/giphy.gif)" alt="Code Geass GIF" width="300"/>
   <h1>Olá, eu sou o Lucas G.</h1>
   <p>Sou estudante de Ciência da Computação, focado em tecnologia, desenvolvimento full-stack e segurança da informação.</p>
 </div>
@@ -32,5 +32,5 @@
 </div>
 
 <div align="center">
-  <p><i>Powered by Code Geass Aesthetics</i></p>
+  <p><i>Powered by LGn</i></p>
 </div>
