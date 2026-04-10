@@ -18,7 +18,7 @@
   "nome": "Lucas G.",
   "status": "Estudante de Ciência da Computação",
   "experiencia": [
-    "Estagiário no SEBRAE (Modernização de Dashboards/OS)",
+    "SEBRAE (Modernização de Dashboards/OS)",
     "Desenvolvimento full-stack do Gestor de Obras"
   ],
   "os_principal": "Arch Linux",
