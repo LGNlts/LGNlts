@@ -1,9 +1,7 @@
-# Olá, eu sou o Lucas G. 👋
+# Olá, eu sou o Lucas G.
 
-Sou estudante de Ciência da Computação, apaixonado por tecnologia, desenvolvimento full-stack e segurança da informação. 
-
-### 🚀 Sobre mim
-- 💼 Atualmente atuando como estagiário no **SEBRAE**, modernizando dashboards e criando soluções internas.
+### Sobre mim
+- 💼 Atualmente modernizando dashboards e criando soluções internas.
 - 🏗️ Desenvolvendo o **Gestor de Obras**, uma plataforma full-stack para gerenciamento de construções.
 - 🐧 Entusiasta de Linux (Arch Linux user) e personalização de sistemas.
 - 🔒 Focando meus estudos acadêmicos para ingressar em um mestrado na área de **Cibersegurança**.
@@ -22,7 +20,7 @@ Sou estudante de Ciência da Computação, apaixonado por tecnologia, desenvolvi
 
 ### 📊 Estatísticas do GitHub
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LGNlts&show_icons=true&theme=dracula&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LGNlts&layout=compact&theme=dracula&hide_border=true" width="48%" />
+<div align="left">  
+  <img width="49%" height="195px" src="https://github-readme-stats-lime-sigma-37.vercel.app/api?username=LGNlts&show_icons=true&count_private=true&hide_border=true&bg_color=0d1117&theme=radical"/> 
+  <img width="41%" height="195px" src="https://github-readme-stats-lime-sigma-37.vercel.app/api/top-langs/?username=LGNlts&layout=compact&hide_border=true&bg_color=0d1117&theme=dracula" />
 </div>
