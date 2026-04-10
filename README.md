@@ -32,8 +32,6 @@
 ![React](https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react)
 ![Next.js](https://img.shields.io/badge/Next.js-0D1117?style=for-the-badge&logo=next.js)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-0D1117?style=for-the-badge&logo=tailwindcss)
-![HTML5](https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-0D1117?style=for-the-badge&logo=css3)
 
 ### Backend
 ![Node.js](https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge&logo=node.js)
