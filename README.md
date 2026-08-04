@@ -3,18 +3,18 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=9D4EDD&center=true&vCenter=true&width=720&lines=Full-Stack+Development;IT+Infrastructure+%26+Operations;Cybersecurity+Enthusiast;Arch+Linux+User" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=9D4EDD&center=true&vCenter=true&width=720&lines=Desenvolvimento+Full-Stack;Infraestrutura+de+TI+e+Operacoes;Entusiasta+em+Ciberseguranca;Arch+Linux+User" alt="Typing SVG" />
 </div>
 
 <br/>
 
-## 👾 About Me
+## Sobre
 
-Computer Science student working with full-stack development and IT infrastructure. My focus is on solving real-world problems by building practical web applications, automating routines, and maintaining system stability. I combine my experience in software development and operations with a strong interest in information security.
+Sou estudante de Ciência da Computação e trabalho diretamente com desenvolvimento full-stack e infraestrutura de TI. Meu foco é resolver problemas reais: construo aplicações web práticas, automatizo rotinas e garanto a estabilidade dos sistemas. Uno minha experiência prática em desenvolvimento de software e operações de TI com um interesse forte e contínuo em segurança da informação.
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## Tecnologias e Ferramentas
 
 <div align="center">
 
@@ -25,13 +25,13 @@ Computer Science student working with full-stack development and IT infrastructu
 ![Vite](https://img.shields.io/badge/Vite-111111?style=for-the-badge&logo=vite&logoColor=646CFF)
 ![TypeScript](https://img.shields.io/badge/TypeScript-111111?style=for-the-badge&logo=typescript&logoColor=3178C6)
 
-### Backend & Database
+### Backend e Banco de Dados
 ![Node.js](https://img.shields.io/badge/Node.js-111111?style=for-the-badge&logo=node.js&logoColor=5FA04E)
 ![Python](https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python&logoColor=3776AB)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-111111?style=for-the-badge&logo=postgresql&logoColor=4169E1)
 ![MySQL](https://img.shields.io/badge/MySQL-111111?style=for-the-badge&logo=mysql&logoColor=4479A1)
 
-### Infrastructure & Operations
+### Infraestrutura e Operações
 ![Linux](https://img.shields.io/badge/Linux-111111?style=for-the-badge&logo=linux&logoColor=FCC624)
 ![Arch Linux](https://img.shields.io/badge/Arch_Linux-111111?style=for-the-badge&logo=arch-linux&logoColor=1793D1)
 ![Docker](https://img.shields.io/badge/Docker-111111?style=for-the-badge&logo=docker&logoColor=2496ED)
@@ -48,25 +48,25 @@ Computer Science student working with full-stack development and IT infrastructu
   <tr>
     <td width="50%" valign="top">
       
-## 💼 Experience
+## Experiencia
 
 **SEBRAE/AP**
-* Development of internal dashboards and web applications
-* IT infrastructure management and technical support
-* Routine automation and system maintenance
+* Suporte técnico a usuários e manutenção de equipamentos corporativos.
+* Administração de infraestrutura utilizando VMware, Active Directory, Zabbix e Nagios.
+* Desenvolvimento de aplicações web internas e dashboards utilizando React e Tailwind para gestão de dados.
 
 **Gestor de Obras**
-* Full-stack platform development
-* Feature planning and implementation
-* Database management and interface improvements
+* Atuação focada em desenvolvimento backend para plataforma full-stack.
+* Construção e manutenção de APIs e serviços utilizando Node.js e Python.
+* Modelagem, manipulação e gerenciamento de banco de dados PostgreSQL.
 
 </td>
     <td width="50%" valign="top">
 
-## 🎯 Current Focus
+## Foco Atual
 
 ```bash
-lucas@workspace:~$ cat focus.txt
-- Building web apps
-- Managing IT infrastructure
-- Studying cybersecurity
+lucas@workspace:~$ cat foco.txt
+- Construindo aplicacoes web
+- Gerenciando infraestrutura de TI
+- Estudando fundamentos de ciberseguranca
