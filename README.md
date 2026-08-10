@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=9D4EDD&center=true&vCenter=true&width=720&lines=Desenvolvimento+Full-Stack;Infraestrutura+de+TI+e+Operacoes;Entusiasta+em+Ciberseguranca;Arch+Linux+User" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=9D4EDD&center=true&vCenter=true&width=720&lines=Desenvolvimento+Full-Stack;Infraestrutura+de+TI;Entusiasta+em+Cibersegurança;CachyOS+User" alt="Typing SVG" />
 </div>
 
 <br/>
@@ -33,7 +33,7 @@ Sou estudante de Ciência da Computação e trabalho diretamente com desenvolvim
 
 ### Infraestrutura e Operações
 ![Linux](https://img.shields.io/badge/Linux-111111?style=for-the-badge&logo=linux&logoColor=FCC624)
-![CachyOS](https://img.shields.io/badge/CachyOS-111111?style=for-the-badge&logo=cachyos&logoColor=1793D1).
+![CachyOS](https://img.shields.io/badge/CachyOS-111111?style=for-the-badge&logo=cachyos&logoColor=1793D1)
 ![Docker](https://img.shields.io/badge/Docker-111111?style=for-the-badge&logo=docker&logoColor=2496ED)
 ![VMware](https://img.shields.io/badge/VMware-111111?style=for-the-badge&logo=vmware&logoColor=607078)
 ![Active Directory](https://img.shields.io/badge/Active_Directory-111111?style=for-the-badge&logo=microsoft&logoColor=00a4ef)
