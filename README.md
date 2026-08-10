@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=9D4EDD&center=true&vCenter=true&width=720&lines=Desenvolvimento+Full-Stack;Infraestrutura+de+TI;Entusiasta+em+Cibersegurança;CachyOS+User" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=9D4EDD&center=true&vCenter=true&width=720&lines=Desenvolvimento+Full-Stack;Infraestrutura+de+TI;Entusiasta+em+Ciberseguranca;CachyOS+User" alt="Typing SVG"/>
 </div>
 
 <br/>
