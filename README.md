@@ -4,11 +4,11 @@
 
 <br/>
 
-<img src="https://github.com/LGNlts.png?size=200" width="96" height="96" style="border-radius:50%; border:3px solid rgba(255,255,255,0.15); opacity:0.96;"/>
+<img src="https://github.com/LGNlts.png?size=200" width="96" height="96" style="border-radius:50%; border:3px solid #FFFFFF;"/>
 
 <br/>
 
-<h2><code>LGNlts</code></h2>
+<h2><b>LGNlts</b></h2>
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=14&duration=3200&pause=1400&color=FFFFFF&background=00000000&center=true&vCenter=true&width=420&height=26&lines=Full-Stack+Development;Infrastructure;System+Architecture;Automation;Secure+by+Design" alt="typing-svg" />
 
@@ -18,7 +18,7 @@
 </tr>
 </table>
 
-```
+```bash
 root@system:~$ whoami
 ```
 
@@ -29,7 +29,7 @@ root@system:~$ whoami
 
 Engenheiro em formação focado em resolver o caos corporativo através de **código** e **arquitetura**. Unindo o desenvolvimento **Full-Stack** à orquestração de **Infraestrutura**, construo sistemas que são:
 
-`escaláveis por design` · `automatizados por necessidade` · `seguros por padrão`
+**escaláveis por design** · **automatizados por necessidade** · **seguros por padrão**
 
 </td>
 </tr>
@@ -38,7 +38,7 @@ Engenheiro em formação focado em resolver o caos corporativo através de **có
 
 ---
 
-```
+```bash
 root@system:~$ ls stack/
 ```
 
@@ -59,11 +59,11 @@ root@system:~$ ls stack/
 
 ---
 
-```
+```bash
 root@system:~$ ls experiencia/
 ```
 
-**Sebrae** · `Administração de Infra & Desenvolvimento Interno`
+**Sebrae** · **Administração de Infra & Desenvolvimento Interno**
 
 ```bash
 $ cat sebrae_ap.log
@@ -74,7 +74,7 @@ $ cat sebrae_ap.log
            para gestão de dados.
 ```
 
-**Gestor de Obras** · `Desenvolvimento Backend`
+**Gestor de Obras** · **Desenvolvimento Backend**
 
 ```bash
 $ cat gestor_de_obras.log
