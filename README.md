@@ -1,12 +1,24 @@
-<div align="center">
-
-<img src="assets/header-bg.svg" width="100%"/>
-
-</div>
+<table align="center" width="100%" bgcolor="#000000" border="0" cellpadding="0" cellspacing="0">
+<tr>
+<td align="center" bgcolor="#000000">
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=1&width=1000" width="100%"/>
+<img src="https://github.com/LGNlts.png?size=200" width="104" height="104" style="border-radius:50%; opacity:0.95;"/>
+
+<br/>
+
+<h2><code>LGNlts</code></h2>
+
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=3200&pause=1400&color=9A9A9A&background=00000000&center=true&vCenter=true&width=420&height=30&lines=Full-Stack+Development;Infrastructure;System+Architecture;Automation;Secure+by+Design" alt="typing-svg" />
+
+<br/>
+
+</td>
+</tr>
+</table>
 
 ```
 root@system:~$ whoami
