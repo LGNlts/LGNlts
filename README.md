@@ -1,14 +1,12 @@
-<img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=4&width=1000" width="100%"/>
-
-<br/>
+<img src="assets/header-bg.svg" width="100%"/>
 
 <div align="center">
 
-<img src="https://github.com/LGNlts.png?size=160" width="130" height="130" style="border-radius:50%;"/>
+<img src="https://github.com/LGNlts.png?size=160" width="130" height="130" style="border-radius:50%; margin-top:-70px; border:4px solid #000000;"/>
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/LGNlts-FFFFFF?style=for-the-badge&logo=github&logoColor=000000&labelColor=000000&color=FFFFFF" height="34"/>
+<img src="https://img.shields.io/badge/LGNlts-FFFFFF?style=for-the-badge&logo=github&logoColor=FFFFFF&labelColor=000000&color=FFFFFF" height="34"/>
 
 <br/><br/>
 
