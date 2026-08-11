@@ -1,56 +1,83 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 180" width="1000" height="180">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 380" width="1000" height="380">
   <defs>
     <pattern id="dotgrid" width="26" height="26" patternUnits="userSpaceOnUse">
-      <circle cx="2" cy="2" r="1" fill="#ffffff" opacity="0.14"/>
+      <circle cx="2" cy="2" r="1" fill="#ffffff" opacity="0.13"/>
     </pattern>
     <linearGradient id="scanFade" x1="0" y1="0" x2="0" y2="1">
       <stop offset="0%" stop-color="#ffffff" stop-opacity="0"/>
-      <stop offset="50%" stop-color="#ffffff" stop-opacity="0.35"/>
+      <stop offset="50%" stop-color="#ffffff" stop-opacity="0.3"/>
       <stop offset="100%" stop-color="#ffffff" stop-opacity="0"/>
     </linearGradient>
-    <linearGradient id="edgeFade" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0%" stop-color="#000000" stop-opacity="1"/>
-      <stop offset="12%" stop-color="#000000" stop-opacity="0"/>
-      <stop offset="88%" stop-color="#000000" stop-opacity="0"/>
-      <stop offset="100%" stop-color="#000000" stop-opacity="1"/>
-    </linearGradient>
+    <clipPath id="avatarClip">
+      <circle cx="500" cy="172" r="65"/>
+    </clipPath>
   </defs>
 
-  <!-- base -->
-  <rect x="0" y="0" width="1000" height="180" fill="#000000"/>
-  <rect x="0" y="0" width="1000" height="180" fill="url(#dotgrid)"/>
-  <rect x="0" y="0" width="1000" height="180" fill="url(#edgeFade)"/>
+  <!-- solid black card -->
+  <rect x="0" y="0" width="1000" height="380" fill="#000000"/>
+  <rect x="0" y="0" width="1000" height="380" fill="url(#dotgrid)"/>
 
   <!-- moving scanline -->
   <rect x="0" y="-40" width="1000" height="40" fill="url(#scanFade)">
-    <animate attributeName="y" values="-40;180" dur="5s" repeatCount="indefinite"/>
+    <animate attributeName="y" values="-40;380" dur="5s" repeatCount="indefinite"/>
   </rect>
 
-  <!-- large faint terminal glyph -->
-  <text x="860" y="120" font-family="JetBrains Mono, monospace" font-size="90" fill="#ffffff" opacity="0.05">&gt;_</text>
+  <!-- faint terminal glyph -->
+  <text x="878" y="96" font-family="JetBrains Mono, monospace" font-size="64" fill="#ffffff" opacity="0.05">&gt;_</text>
 
   <!-- status indicators -->
   <g font-family="JetBrains Mono, monospace" font-size="12" fill="#ffffff">
-    <circle cx="34" cy="148" r="3.5" fill="#ffffff">
+    <circle cx="34" cy="34" r="3.5" fill="#ffffff">
       <animate attributeName="opacity" values="0.15;1;0.15" dur="1.6s" repeatCount="indefinite"/>
     </circle>
-    <circle cx="54" cy="148" r="3.5" fill="#ffffff">
+    <circle cx="54" cy="34" r="3.5" fill="#ffffff">
       <animate attributeName="opacity" values="0.15;1;0.15" dur="1.6s" begin="0.4s" repeatCount="indefinite"/>
     </circle>
-    <circle cx="74" cy="148" r="3.5" fill="#ffffff">
+    <circle cx="74" cy="34" r="3.5" fill="#ffffff">
       <animate attributeName="opacity" values="0.15;1;0.15" dur="1.6s" begin="0.8s" repeatCount="indefinite"/>
     </circle>
-    <text x="92" y="152" opacity="0.55">system.online</text>
+    <text x="92" y="38" opacity="0.55">system.online</text>
   </g>
 
   <!-- corner tick marks -->
-  <g stroke="#ffffff" stroke-width="1.5" opacity="0.35">
+  <g stroke="#ffffff" stroke-width="1.5" opacity="0.3">
     <path d="M 20 20 L 20 34 M 20 20 L 34 20"/>
     <path d="M 980 20 L 980 34 M 980 20 L 966 20"/>
-    <path d="M 20 160 L 20 146 M 20 160 L 34 160"/>
-    <path d="M 980 160 L 980 146 M 980 160 L 966 160"/>
+    <path d="M 20 360 L 20 346 M 20 360 L 34 360"/>
+    <path d="M 980 360 L 980 346 M 980 360 L 966 360"/>
   </g>
 
-  <!-- base border -->
-  <rect x="0" y="177" width="1000" height="2" fill="#ffffff" opacity="0.25"/>
+  <!-- avatar radar ping -->
+  <circle cx="500" cy="172" r="65" fill="none" stroke="#ffffff" stroke-width="2" opacity="0.5">
+    <animate attributeName="r" values="65;80" dur="2.4s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.5;0" dur="2.4s" repeatCount="indefinite"/>
+  </circle>
+
+  <!-- avatar -->
+  <image href="https://github.com/LGNlts.png?size=260" x="435" y="107" width="130" height="130" clip-path="url(#avatarClip)"/>
+  <circle cx="500" cy="172" r="65" fill="none" stroke="#ffffff" stroke-width="2" opacity="0.55"/>
+
+  <!-- nameplate -->
+  <rect x="415" y="260" width="170" height="34" rx="4" fill="#000000" stroke="#ffffff" stroke-width="1.2" opacity="0.9"/>
+  <text x="500" y="282" font-family="JetBrains Mono, monospace" font-size="16" font-weight="700" fill="#ffffff" text-anchor="middle" letter-spacing="2">LGNlts</text>
+
+  <!-- cycling tagline -->
+  <text x="500" y="345" font-family="JetBrains Mono, monospace" font-size="21" fill="#ffffff" text-anchor="middle" opacity="0">Full-Stack Development
+    <animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.1990;0.2000;1" dur="15.0s" repeatCount="indefinite"/>
+  </text>
+  <text x="500" y="345" font-family="JetBrains Mono, monospace" font-size="21" fill="#ffffff" text-anchor="middle" opacity="0">Infrastructure
+    <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.1990;0.2000;0.3990;0.4000;1" dur="15.0s" repeatCount="indefinite"/>
+  </text>
+  <text x="500" y="345" font-family="JetBrains Mono, monospace" font-size="21" fill="#ffffff" text-anchor="middle" opacity="0">System Architecture
+    <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.3990;0.4000;0.5990;0.6000;1" dur="15.0s" repeatCount="indefinite"/>
+  </text>
+  <text x="500" y="345" font-family="JetBrains Mono, monospace" font-size="21" fill="#ffffff" text-anchor="middle" opacity="0">Automation
+    <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.5990;0.6000;0.7990;0.8000;1" dur="15.0s" repeatCount="indefinite"/>
+  </text>
+  <text x="500" y="345" font-family="JetBrains Mono, monospace" font-size="21" fill="#ffffff" text-anchor="middle" opacity="0">Secure by Design
+    <animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.7990;0.8000;0.9990" dur="15.0s" repeatCount="indefinite"/>
+  </text>
+
+  <!-- outer card border -->
+  <rect x="1" y="1" width="998" height="378" fill="none" stroke="#ffffff" stroke-width="1" opacity="0.2"/>
 </svg>

@@ -1,16 +1,6 @@
-<img src="assets/header-bg.svg" width="100%"/>
-
 <div align="center">
 
-<img src="https://github.com/LGNlts.png?size=160" width="130" height="130" style="border-radius:50%; margin-top:-70px; border:4px solid #000000;"/>
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/LGNlts-FFFFFF?style=for-the-badge&logo=github&logoColor=FFFFFF&labelColor=000000&color=FFFFFF" height="34"/>
-
-<br/><br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3200&pause=1400&color=FFFFFF&background=00000000&center=true&vCenter=true&width=560&height=40&lines=Full-Stack+Development;Infrastructure;System+Architecture;Automation;Secure+by+Design" alt="typing-svg" />
+<img src="assets/header-bg.svg" width="100%"/>
 
 </div>
 
