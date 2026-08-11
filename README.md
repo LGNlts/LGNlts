@@ -1,72 +1,99 @@
-<div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=7B2CBF&height=180&section=header&text=Lucas%20Gabriel&fontSize=50&fontColor=FFFFFF&fontAlignY=35&desc=Full-Stack%20Developer%20%E2%80%A2%20IT%20Infrastructure%20%E2%80%A2%20CS%20Student&descAlignY=55&descAlign=50&descSize=16" />
-</div>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=4&width=1000" width="100%"/>
+
+<br/>
 
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=9D4EDD&center=true&vCenter=true&width=720&lines=Desenvolvimento+Full-Stack;Infraestrutura+de+TI;Entusiasta+em+Ciberseguranca;CachyOS+User" alt="Typing SVG"/>
+
+<img src="https://github.com/LGNlts.png?size=160" width="130" height="130" style="border-radius:50%;"/>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/LGNlts-FFFFFF?style=for-the-badge&logo=github&logoColor=000000&labelColor=000000&color=FFFFFF" height="34"/>
+
+<br/><br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3200&pause=1400&color=FFFFFF&background=00000000&center=true&vCenter=true&width=560&height=40&lines=Full-Stack+Development;Infrastructure;System+Architecture;Automation;Secure+by+Design" alt="typing-svg" />
+
 </div>
 
 <br/>
 
-## Sobre
+<img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=1&width=1000" width="100%"/>
 
-Sou estudante de Ciência da Computação e trabalho diretamente com desenvolvimento full-stack e infraestrutura de TI. Meu foco é resolver problemas reais: construo aplicações web práticas, automatizo rotinas e garanto a estabilidade dos sistemas. Uno minha experiência prática em desenvolvimento de software e operações de TI com um interesse forte e contínuo em segurança da informação.
+```
+root@system:~$ whoami
+```
 
----
+<div align="center">
+<table border="0">
+<tr>
+<td width="88%" align="center">
 
-## Tecnologias e Ferramentas
+Engenheiro em formação focado em resolver o caos corporativo através de **código** e **arquitetura**. Unindo o desenvolvimento **Full-Stack** à orquestração de **Infraestrutura**, construo sistemas que são:
+
+`escaláveis por design` · `automatizados por necessidade` · `seguros por padrão`
+
+</td>
+</tr>
+</table>
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=2&width=1000" width="100%"/>
+
+```
+root@system:~$ ls stack/
+```
 
 <div align="center">
 
-### Frontend
-![React](https://img.shields.io/badge/React-111111?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-111111?style=for-the-badge&logo=next.js&logoColor=FFFFFF)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-111111?style=for-the-badge&logo=tailwind-css&logoColor=38BDF8)
-![Vite](https://img.shields.io/badge/Vite-111111?style=for-the-badge&logo=vite&logoColor=646CFF)
-![TypeScript](https://img.shields.io/badge/TypeScript-111111?style=for-the-badge&logo=typescript&logoColor=3178C6)
-
-### Backend e Banco de Dados
-![Node.js](https://img.shields.io/badge/Node.js-111111?style=for-the-badge&logo=node.js&logoColor=5FA04E)
-![Python](https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python&logoColor=3776AB)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-111111?style=for-the-badge&logo=postgresql&logoColor=4169E1)
-![MySQL](https://img.shields.io/badge/MySQL-111111?style=for-the-badge&logo=mysql&logoColor=4479A1)
-
-### Infraestrutura e Operações
-![Linux](https://img.shields.io/badge/Linux-111111?style=for-the-badge&logo=linux&logoColor=FCC624)
-![CachyOS](https://img.shields.io/badge/CachyOS-111111?style=for-the-badge&logo=cachyos&logoColor=1793D1)
-![Docker](https://img.shields.io/badge/Docker-111111?style=for-the-badge&logo=docker&logoColor=2496ED)
-![VMware](https://img.shields.io/badge/VMware-111111?style=for-the-badge&logo=vmware&logoColor=607078)
-![Active Directory](https://img.shields.io/badge/Active_Directory-111111?style=for-the-badge&logo=microsoft&logoColor=00a4ef)
-![Zabbix](https://img.shields.io/badge/Zabbix-111111?style=for-the-badge&logo=zabbix&logoColor=D40000)
-![Git](https://img.shields.io/badge/Git-111111?style=for-the-badge&logo=git&logoColor=F05032)
+<img src="https://img.shields.io/badge/React-FFFFFF?style=flat-square&logo=react&logoColor=000000&labelColor=FFFFFF" height="24"/>
+<img src="https://img.shields.io/badge/Tailwind-FFFFFF?style=flat-square&logo=tailwindcss&logoColor=000000&labelColor=FFFFFF" height="24"/>
+<img src="https://img.shields.io/badge/Node.js-FFFFFF?style=flat-square&logo=nodedotjs&logoColor=000000&labelColor=FFFFFF" height="24"/>
+<img src="https://img.shields.io/badge/Python-FFFFFF?style=flat-square&logo=python&logoColor=000000&labelColor=FFFFFF" height="24"/>
+<img src="https://img.shields.io/badge/PostgreSQL-FFFFFF?style=flat-square&logo=postgresql&logoColor=000000&labelColor=FFFFFF" height="24"/>
+<br/>
+<img src="https://img.shields.io/badge/VMware-000000?style=flat-square&logo=vmware&logoColor=FFFFFF&labelColor=000000" height="24"/>
+<img src="https://img.shields.io/badge/Active_Directory-000000?style=flat-square&logo=microsoft&logoColor=FFFFFF&labelColor=000000" height="24"/>
+<img src="https://img.shields.io/badge/Zabbix-000000?style=flat-square&logo=zabbix&logoColor=FFFFFF&labelColor=000000" height="24"/>
+<img src="https://img.shields.io/badge/Nagios-000000?style=flat-square&logo=nagios&logoColor=FFFFFF&labelColor=000000" height="24"/>
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=FFFFFF&height=2&width=1000" width="100%"/>
 
-<table align="center" border="0" cellpadding="0" cellspacing="0" width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      
-## Experiencia
+```
+root@system:~$ ls experiencia/
+```
 
-**SEBRAE/AP**
-* Suporte técnico a usuários e manutenção de equipamentos corporativos.
-* Administração de infraestrutura utilizando VMware, Active Directory, Zabbix e Nagios.
-* Desenvolvimento de aplicações web internas e dashboards utilizando React e Tailwind para gestão de dados.
-
-**Gestor de Obras**
-* Atuação focada em desenvolvimento backend para plataforma full-stack.
-* Construção e manutenção de APIs e serviços utilizando Node.js e Python.
-* Modelagem, manipulação e gerenciamento de banco de dados PostgreSQL.
-
-</td>
-    <td width="50%" valign="top">
-
-## Foco Atual
+**Sebrae** · `Administração de Infra & Desenvolvimento Interno`
 
 ```bash
-lucas@workspace:~$ cat foco.txt
-- Construindo aplicacoes web
-- Gerenciando infraestrutura de TI
-- Estudando fundamentos de ciberseguranca
+$ cat sebrae_ap.log
+[stack]  VMware · Active Directory · Zabbix · React · Tailwind
+[log]    > Administração de infraestrutura de TI corporativa.
+         > Monitoramento ativo de rede e hardware via Zabbix e Nagios.
+         > Desenvolvimento de aplicações web e dashboards interativos
+           para gestão de dados.
+```
+
+**Gestor de Obras** · `Desenvolvimento Backend`
+
+```bash
+$ cat gestor_de_obras.log
+[stack]  Node.js · Python · PostgreSQL
+[log]    > Arquitetura e manutenção de APIs focadas em performance.
+         > Modelagem relacional e gerenciamento otimizado em banco
+           de dados.
+```
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=2&width=1000" width="100%"/>
+
+<div align="center">
+
+```bash
+root@system:~$ exit 0
+```
+
+<sub>EOF █</sub>
+
+</div>
