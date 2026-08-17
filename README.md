@@ -1,7 +1,6 @@
 <div align="center">
 
 <h1><b>Lucas Nascimento</b></h1>
-<sub>@LGNlts</sub>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=14&duration=3200&pause=1400&color=FFFFFF&background=00000000&center=true&vCenter=true&width=480&height=26&lines=Desenvolvimento+Full-Stack;Infraestrutura+de+TI;Entusiasta+em+Ciberseguran%C3%A7a;CachyOS+User)](https://git.io/typing-svg)
 
