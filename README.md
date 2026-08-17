@@ -6,14 +6,17 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=14&duration=3200&pause=1400&color=FFFFFF&background=00000000&center=true&vCenter=true&width=480&height=26&lines=Desenvolvimento+Full-Stack;Infraestrutura+de+TI;Entusiasta+em+Ciberseguran%C3%A7a;CachyOS+User)](https://git.io/typing-svg)
 
 </div>
-<br>
+<div align="center">
+<table border="0">
+<tr>
+<td width="86%" align="center">
 
-```bash
-root@system:~# whoami
-```
 Estudante de Ciência da Computação, atuando com desenvolvimento **full-stack** e **infraestrutura de TI**. Foco em resolver problemas reais, unindo a prática em desenvolvimento e operações a um forte interesse em **segurança da informação**.
 
-<br>
+</td>
+</tr>
+</table>
+</div>
 
 ```bash
 root@system:~# ls stack/
@@ -35,7 +38,7 @@ root@system:~# ls stack/
 <br>
 
 ```bash
-root@system:~# cat experiencia/sebrae_ap.log
+root@system:~# experiencia/sebrae_ap.log
 ```
 ```text
 [cargo]  Suporte Técnico & Infraestrutura
@@ -46,7 +49,7 @@ root@system:~# cat experiencia/sebrae_ap.log
 ```
 
 ```bash
-root@system:~# cat experiencia/gestor_de_obras.log
+root@system:~# experiencia/gestor_de_obras.log
 ```
 ```text
 [cargo]  Backend
