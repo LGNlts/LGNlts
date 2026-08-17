@@ -1,97 +1,59 @@
-<table align="center" width="100%" bgcolor="#000000" border="0" cellpadding="0" cellspacing="0">
-<tr>
-<td align="center" bgcolor="#000000">
-
-<br/>
-
-<img src="https://github.com/LGNlts.png?size=200" width="96" height="96" style="border-radius:50%; border:3px solid #FFFFFF;"/>
-
-<br/>
-
-<h2><b>LGNlts</b></h2>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=14&duration=3200&pause=1400&color=FFFFFF&background=00000000&center=true&vCenter=true&width=420&height=26&lines=Full-Stack+Development;Infrastructure;System+Architecture;Automation;Secure+by+Design" alt="typing-svg" />
-
-<br/>
-
-</td>
-</tr>
-</table>
-
-```bash
-root@system:~$ whoami
-```
-
 <div align="center">
-<table border="0">
-<tr>
-<td width="86%" align="center">
 
-Engenheiro em formação focado em resolver o caos corporativo através de **código** e **arquitetura**. Unindo o desenvolvimento **Full-Stack** à orquestração de **Infraestrutura**, construo sistemas que são:
+<h1><b>Lucas Nascimento</b></h1>
+<sub>@LGNlts</sub>
 
-**escaláveis por design** · **automatizados por necessidade** · **seguros por padrão**
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=14&duration=3200&pause=1400&color=FFFFFF&background=00000000&center=true&vCenter=true&width=480&height=26&lines=Desenvolvimento+Full-Stack;Infraestrutura+de+TI;Entusiasta+em+Ciberseguran%C3%A7a;CachyOS+User)](https://git.io/typing-svg)
 
-</td>
-</tr>
-</table>
 </div>
-
----
+<br>
 
 ```bash
-root@system:~$ ls stack/
+root@system:~# whoami
+```
+Estudante de Ciência da Computação, atuando com desenvolvimento **full-stack** e **infraestrutura de TI**. Foco em resolver problemas reais, unindo a prática em desenvolvimento e operações a um forte interesse em **segurança da informação**.
+
+<br>
+
+```bash
+root@system:~# ls stack/
 ```
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/React-FFFFFF?style=flat-square&logo=react&logoColor=000000&labelColor=FFFFFF" height="24"/>
-<img src="https://img.shields.io/badge/Tailwind-FFFFFF?style=flat-square&logo=tailwindcss&logoColor=000000&labelColor=FFFFFF" height="24"/>
-<img src="https://img.shields.io/badge/Node.js-FFFFFF?style=flat-square&logo=nodedotjs&logoColor=000000&labelColor=FFFFFF" height="24"/>
-<img src="https://img.shields.io/badge/Python-FFFFFF?style=flat-square&logo=python&logoColor=000000&labelColor=FFFFFF" height="24"/>
-<img src="https://img.shields.io/badge/PostgreSQL-FFFFFF?style=flat-square&logo=postgresql&logoColor=000000&labelColor=FFFFFF" height="24"/>
-<br/>
-<img src="https://img.shields.io/badge/VMware-000000?style=flat-square&logo=vmware&logoColor=FFFFFF&labelColor=000000" height="24"/>
-<img src="https://img.shields.io/badge/Active_Directory-000000?style=flat-square&logo=microsoft&logoColor=FFFFFF&labelColor=000000" height="24"/>
-<img src="https://img.shields.io/badge/Zabbix-000000?style=flat-square&logo=zabbix&logoColor=FFFFFF&labelColor=000000" height="24"/>
-<img src="https://img.shields.io/badge/Nagios-000000?style=flat-square&logo=nagios&logoColor=FFFFFF&labelColor=000000" height="24"/>
+**frontend**<br>
+![React](https://img.shields.io/badge/React-000000?style=flat-square&logo=react&logoColor=61DAFB&labelColor=000000) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=FFFFFF&labelColor=000000) ![Tailwind](https://img.shields.io/badge/Tailwind-000000?style=flat-square&logo=tailwindcss&logoColor=06B6D4&labelColor=000000) ![Vite](https://img.shields.io/badge/Vite-000000?style=flat-square&logo=vite&logoColor=646CFF&labelColor=000000) ![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=flat-square&logo=typescript&logoColor=3178C6&labelColor=000000)
+
+**backend · database**<br>
+![Node.js](https://img.shields.io/badge/Node.js-000000?style=flat-square&logo=nodedotjs&logoColor=339933&labelColor=000000) ![Python](https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=3776AB&labelColor=000000) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000000?style=flat-square&logo=postgresql&logoColor=4169E1&labelColor=000000) ![MySQL](https://img.shields.io/badge/MySQL-000000?style=flat-square&logo=mysql&logoColor=4479A1&labelColor=000000)
+
+**infraestrutura**<br>
+![Linux](https://img.shields.io/badge/Linux-000000?style=flat-square&logo=linux&logoColor=FCC624&labelColor=000000) ![CachyOS](https://img.shields.io/badge/CachyOS-000000?style=flat-square&logo=cachyos&logoColor=1793D1&labelColor=000000) ![Docker](https://img.shields.io/badge/Docker-000000?style=flat-square&logo=docker&logoColor=2496ED&labelColor=000000) ![VMware](https://img.shields.io/badge/VMware-000000?style=flat-square&logo=vmware&logoColor=607078&labelColor=000000) ![Active Directory](https://img.shields.io/badge/Active_Directory-000000?style=flat-square&logo=microsoft&logoColor=00A4EF&labelColor=000000) ![Zabbix](https://img.shields.io/badge/Zabbix-000000?style=flat-square&logo=zabbix&logoColor=D40000&labelColor=000000) ![Nagios](https://img.shields.io/badge/Nagios-000000?style=flat-square&logo=nagios&logoColor=FFDC0E&labelColor=000000) ![Git](https://img.shields.io/badge/Git-000000?style=flat-square&logo=git&logoColor=F05032&labelColor=000000)
 
 </div>
 
----
+<br>
 
 ```bash
-root@system:~$ ls experiencia/
+root@system:~# cat experiencia/sebrae_ap.log
+```
+```text
+[cargo]  Suporte Técnico & Infraestrutura
+[stack]  VMware · Active Directory · Zabbix · Nagios · React · Tailwind
+[log]    > Suporte técnico a usuários e manutenção de equipamentos.
+         > Administração de infraestrutura via VMware, AD, Zabbix.
+         > Desenvolvimento de dashboards internos com React.
 ```
 
-**Sebrae** · **Administração de Infra & Desenvolvimento Interno**
-
 ```bash
-$ cat sebrae_ap.log
-[stack]  VMware · Active Directory · Zabbix · React · Tailwind
-[log]    > Administração de infraestrutura de TI corporativa.
-         > Monitoramento ativo de rede e hardware via Zabbix e Nagios.
-         > Desenvolvimento de aplicações web e dashboards interativos
-           para gestão de dados.
+root@system:~# cat experiencia/gestor_de_obras.log
 ```
-
-**Gestor de Obras** · **Desenvolvimento Backend**
-
-```bash
-$ cat gestor_de_obras.log
+```text
+[cargo]  Backend
 [stack]  Node.js · Python · PostgreSQL
-[log]    > Arquitetura e manutenção de APIs focadas em performance.
-         > Modelagem relacional e gerenciamento otimizado em banco
-           de dados.
+[log]    > Desenvolvimento backend para plataforma full-stack.
+         > Criação e manutenção de APIs com Node.js e Python.
+         > Modelagem e gestão de banco de dados PostgreSQL.
 ```
 
----
-
-<div align="center">
-
-```bash
-root@system:~$ exit 0
-```
-
-<sub>EOF █</sub>
-
-</div>
+<br>
